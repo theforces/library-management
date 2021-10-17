@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=
+comment1.target=java.lang.String\ getCod()
+comment10.params=c
+comment10.target=int\ compareTo(Client)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=cod
+comment2.target=void\ setCod(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNume()
+comment4.params=nume
+comment4.target=void\ setNume(java.lang.String)
+comment5.params=
+comment5.target=int\ getNrCarti()
+comment6.params=nrCarti
+comment6.target=void\ setNrCarti(int)
+comment7.params=
+comment7.target=java.lang.String\ getDataRetur()
+comment8.params=dataRetur
+comment8.target=void\ setDataRetur(java.lang.String)
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=12
